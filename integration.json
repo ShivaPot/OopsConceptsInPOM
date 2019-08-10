@@ -1,7 +1,0 @@
-{
-  "_id": "5d0b50db5844642e556ae48d",
-  "name": "NetSuite item prices to Amazon MWS product prices",
-  "description": "Sync NetSuite item prices as Amazon MWS product prices.",
-  "readme": "<p>\n\n\n\n<b>Prerequisites:&nbsp;</b></p><p> <b><b>NetSuite items to Amazon MWS product prices:</b>\n\n<br></b></p><p></p><ol><li>The products SKU in Amazon and Name in NetSuite should be same.\n\n</li></ol><b><b>Setup Instructions:</b></b>\n\n<br><p>&nbsp;  <b>NetSuite items to Amazon MWS product prices:</b>\n\n<br></p><p></p><ol><li>Create a saved search on item record type in NetSuite with following criteria i.e., Type as 'Inventory Item' and configure it on the export.&nbsp;</li></ol><p></p>\n\n<p></p>",
-  "install": []
-}
