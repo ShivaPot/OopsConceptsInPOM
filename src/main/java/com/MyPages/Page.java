@@ -29,7 +29,7 @@ public abstract class Page
 	
 	public abstract void waitForPageTitle(String title); 
 	
-	//Non-Abstract Method.
+	//NonAbstract Method.
 	//Create a Method with Java Generics and Return a New Page.
 	public <TPage extends BasePage> TPage getInstance(Class<TPage> pageClass) 
 	{
